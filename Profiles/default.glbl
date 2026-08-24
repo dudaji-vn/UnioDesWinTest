@@ -4,4 +4,49 @@
    <name>default</name>
    <tag></tag>
    <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'lieucao16122003'</initValue>
+      <name>USERNAMES</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'lieucao16122003@gmail.com'</initValue>
+      <name>EMAIL</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Lieucao16122003'</initValue>
+      <name>PASSWORD</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'lieuctse172847'</initValue>
+      <name>INVITEE_USERNAMES</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'lieuctse172847@fpt.edu.vn'</initValue>
+      <name>INVITEE_EMAIL</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Lieuctse172847'</initValue>
+      <name>INVITEE_PASSWORD</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'caothuilui'</initValue>
+      <name>INVITEE2_USERNAMES</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'caothuilui@gmail.com'</initValue>
+      <name>INVITEE2_EMAIL2</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Caothuilui@gmail.com'</initValue>
+      <name>INVITEE2_PASSWORD2</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC000_pre-station noti test</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>99b50182-c72e-4d95-a0e3-58dea8835a6b</testCaseGuid>
+</TestCaseEntity>
